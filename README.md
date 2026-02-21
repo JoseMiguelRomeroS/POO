@@ -1,38 +1,61 @@
-\# Programación orientada a objetos (POO)
+# Programación Orientada a Objetos (POO)
 
-\# Semestre 2026-1
+**Semestre:** 2026-1  
+**Profesor:** Walter H. Arboleda  
 
-\# Profesor: Walter H. Arboleda
+---
 
+## 📚 Descripción del Curso
 
+Este repositorio contiene el desarrollo de las actividades correspondientes a la asignatura **Programación Orientada a Objetos (POO)**.
 
+El objetivo general es comprender y aplicar los fundamentos de la programación orientada a objetos, incluyendo conceptos como:
 
+- Clases  
+- Objetos  
+- Métodos  
+- Atributos  
+- Encapsulamiento  
 
-\# Actividad 1
+---
 
-\## Metodología: Individual
+# 📝 Actividades
 
-\## Porcentaje: 10%
+---
 
-\## Descripción:
+## 🔹 Actividad 1
 
+**Metodología:** Individual  
+**Porcentaje:** 10%  
 
+### 📌 Descripción
 
-El objetivo de esta actividad es realizar 5 ejercicios del libro de Lógica de Programación de Efraín Oviedo para familiarizarnos con la programación orientada a objetos, es decir saber que es una clase y métodos. Llevar algoritmos básicos a algo más estructurado. Los ejercicios propuestos por el docente fueron los 4, 5, 12, 14 y 17. A continuación encontrara la solución de cada uno de ellos.
+El objetivo de esta actividad es resolver cinco ejercicios del libro **"Lógica de Programación" de Efraín Oviedo**, con el fin de reforzar los conceptos básicos de programación y comprender su transición hacia la programación orientada a objetos.
 
+Los ejercicios asignados fueron:
 
+- Ejercicio 4  
+- Ejercicio 5  
+- Ejercicio 12  
+- Ejercicio 14  
+- Ejercicio 17  
 
-\# Actividad 2
+En este repositorio se encuentra la solución correspondiente a cada uno de ellos.
 
-\## Metodología: Equipos
+---
 
-\## Porcentaje: 20%
+## 🔹 Actividad 2
 
-\## Descripción:
+**Metodología:** Trabajo en equipo  
+**Porcentaje:** 20%  
 
+### 📌 Descripción
 
+*........*
 
+---
 
+## 👨‍💻 Autor
 
-
-
+Estudiante de Programación Orientada a Objetos  
+Semestre 2026-1
