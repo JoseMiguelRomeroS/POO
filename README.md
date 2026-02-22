@@ -51,7 +51,11 @@ En este repositorio se encuentra la solución correspondiente a cada uno de ello
 
 ### 📌 Descripción
 
-El objetivo de esta actividad es realizar 5 ejercicios del libro de Ejercicios de programación orientada a objetos con Java y uml de Leonardo Bermón Angarita para familiarizarnos con la programación orientada a objetos además de los diagramas de clases, es decir saber que es una clase, métodos, instancias y constructores. Llevar algoritmos básicos a algo más estructurado. Los ejercicios propuestos por el docente fueron del 2.1 al 2.5 (se encuentran en la página 63, 66, 66, 86 y 95 respectivamente). A continuación encontrara la solución de cada uno de ellos.
+El objetivo de esta actividad es realizar 5 ejercicios del libro de Ejercicios de programación orientada a objetos con Java y uml de Leonardo Bermón Angarita para familiarizarnos con la programación orientada a objetos además de los diagramas de clases, es decir saber que es una clase, métodos, instancias, constructores y enumeraciones. Llevar algoritmos básicos a algo más estructurado. Los ejercicios propuestos por el docente fueron del 2.1 al 2.5 (se encuentran en la página 63, 66, 66, 86 y 95 respectivamente). A continuación encontrara la solución de cada uno de ellos.
+
+**Nota:** Para la elaboración del diagrama de clases se uso la herramienta de [PlantUML](https://plantuml.com/es/class-diagram), ya que es de fácil uso y ahorra tiempo.
+
+
 
 ---
 
