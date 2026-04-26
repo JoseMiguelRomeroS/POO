@@ -59,6 +59,26 @@ El objetivo de esta actividad es realizar 5 ejercicios del libro de Ejercicios d
 
 ---
 
+## 🔹 Actividad 3
+
+**Metodología:** Individual  
+**Porcentaje:** 10%  
+
+### 📌 Descripción
+
+El objetivo de esta actividad es resolver dos ejercicios del libro **"libro de Ejercicios de programación orientada a objetos con Java y uml de Leonardo Bermón Angarita**, con el fin de trabajar el tema 6 correspondiente al desarrollo de interfaz gráfica de usuario (Sistemas de ventanas y componentes, además del manejo de eventos). 
+
+Los ejercicios asignados fueron:
+
+- Ejercicio 8.2  
+- Ejercicio 8.3  
+
+En este repositorio se encuentra la solución correspondiente a cada uno de ellos.
+
+**Nota:** Para la elaboración del diagrama de clases se uso la herramienta de [PlantUML](https://plantuml.com/es/class-diagram), ya que es de fácil uso y ahorra tiempo.
+
+---
+
 ## 👨‍💻 Autor
 
 Estudiante de Programación Orientada a Objetos  
