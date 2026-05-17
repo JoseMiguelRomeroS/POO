@@ -1,0 +1,13 @@
+Universidad Nacional de Colombia
+Programa de Ingeniería
+
+Este archivo es una prueba para el ejercicio de lectura de archivos.
+Aquí estamos validando:
+- Lectura línea por línea
+- Conteo de palabras
+- Conteo de caracteres
+- Manejo de excepciones
+
+Python es poderoso.
+Java también.
+La programación orientada a objetos mejora la estructura.
